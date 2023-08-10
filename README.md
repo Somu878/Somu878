@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Someswara Rao Kandula</h1>
-<h3 align="center">A passionate Software Development Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 - 🌱 I’m currently learning **Full Stack Development,AWS**
 
