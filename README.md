@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/somu9teen" target="blank"><img src="https://img.shields.io/twitter/follow/somu9teen?logo=twitter&style=for-the-badge" alt="somu9teen" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development and Cloud Computing**
+- 🌱 I’m currently learning **Full Stack Development(MERN)**
 
-- 💬 Ask me about **Python,SQl,Web Dev**
+- 💬 Ask me about **Python,Web Dev**
 
 - 📫 How to reach me **somuu99@protonmail.com**
 
