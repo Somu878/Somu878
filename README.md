@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **somuu99@protonmail.com**
 
-- 📄 Know about my experiences [https://resume-save.s3.ap-south-1.amazonaws.com/Firstname_Lastname_Resume.pdf](https://resume-save.s3.ap-south-1.amazonaws.com/Firstname_Lastname_Resume.pdf)
-
 - ⚡ Fun fact **I can not only code up a storm but also cook up a storm in the kitchen!**
 
 <h3 align="left">Connect with me:</h3>
