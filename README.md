@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **somuu99@protonmail.com**
 
-- ⚡ Fun fact **I can not only code up a storm but also cook up a storm in the kitchen!**
+- ⚡ Fun fact **I cannot only code up a storm but also cook up a storm in the kitchen!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
