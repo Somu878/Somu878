@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development(MERN)**
 
-- 💬 Ask me about **Python,Web Dev**
+- 💬 Ask me about **Python,MERN Stack**
 
 - 📫 How to reach me **somuu99@protonmail.com**
 
