@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Creating bugs since 2022<br>🌱 I’m currently learning Full Stack Development<br>🎲 Fun fact: I cannot only code up a storm but also cook up a storm in the kitchen!<br>💬 Ask me about Python,nodejs,javascript,reactjs....
+✨ Creating bugs since 2021<br>🌱 I’m currently learning Full Stack Development<br>🎲 Fun fact: I cannot only code up a storm but also cook up a storm in the kitchen!<br>💬 Ask me about Python,nodejs,javascript,reactjs....
 
 
 ## 🌐 Socials:
