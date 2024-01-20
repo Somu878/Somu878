@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src=https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif>
+<img align="right" alt="CodingGif" borderRadius="20px" width="350" src=https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif>
 <h1 align="center">Hello 👋, I'm Somu Kandula</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 # 💫 About Me:
