@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Somu Kandula</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 # 💫 About Me:
-✨ Creating bugs since 2021<br>🌱 I’m currently learning Full Stack Development<br>📫 How to reach me <a>somukandula99@gmail.com</a>  <br>🎲 Fun fact: I cannot only code up a storm but also cook up a storm in the kitchen!<br>💬 Ask me about Python,Nodejs,javascript,reactjs....
+✨ Creating bugs since 2021<br>🌱 I’m currently learning Full Stack Development<br>📫 How to reach me <a href='/'>somukandula99@gmail.com</a>  <br>🎲 Fun fact: I cannot only code up a storm but also cook up a storm in the kitchen!<br>💬 Ask me about Python,Nodejs,javascript,reactjs....
 
 
 
