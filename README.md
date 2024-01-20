@@ -1,7 +1,7 @@
 # 💫 About Me:
 ✨ Creating bugs since 2021<br>🌱 I’m currently learning Full Stack Development<br>🎲 Fun fact: I cannot only code up a storm but also cook up a storm in the kitchen!<br>💬 Ask me about Python,nodejs,javascript,reactjs....
 
-
+<img align="right" alt="Coding" width="400" src=https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/so_movee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/somu-kandula) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Somu9teen) 
 
